@@ -350,6 +350,9 @@ body {
     padding: 10px 15px;
 }
 
+.navbar-link:is(:hover, :focus) {
+    color: #ffc332;
+}
 .navbar-action-btn {
     position: absolute;
     bottom: 0;
@@ -363,11 +366,17 @@ body {
     text-align: center;
 }
 
+.navbar-action-btn:is(:hover, :focus) {
+    background-color: #ffc332;
+}
+
+
+
 /*-------- Hero ---------*/
 
 .hero {
-    margin-block-start: 90px;
-    min-height: 750px;
+    margin-block-start: 85px;
+    min-height: 360px;
     background-position: left;
     text-align: center;
 }
