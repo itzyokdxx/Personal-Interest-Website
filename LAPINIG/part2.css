@@ -398,7 +398,10 @@ body {
     background-color: #ff8202;
 }
 
+
 /*-------CATEGORY-----------*\
+
+
 
 .category-card .card-banner { border-radius: var(--radius-10); }
 
@@ -412,4 +415,6 @@ body {
   transition: var(--transition-1);
 }
 
-.category-card .card-title:is(:hover, :focus) { color: var(--portland-orange); }
+.category-card .card-title:is(:hover, :focus) { color: var(--portland-orange); 
+
+}
