@@ -257,4 +257,20 @@
 
   .grid-list { grid-template-columns: repeat(4, 1fr); }
 
-  
+
+  /*** CTA*/
+
+   .cta-content { padding-block: 100px; }
+
+
+   /*** BRAND, FOOTER*/
+ 
+   :is(.brand, .footer) .container {
+     max-width: 1200px;
+     width: 100%;
+     margin-inline: auto;
+   }
+ 
+   .footer { padding-block-start: 40px; }
+ 
+ }
