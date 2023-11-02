@@ -104,3 +104,10 @@
   
     }
 
+/*** REUSED STYLE*/
+
+   .scrollbar-item { min-width: calc(33.33% - 20px); }
+
+   .grid-list { grid-template-columns: repeat(3, 1fr); }
+
+   
