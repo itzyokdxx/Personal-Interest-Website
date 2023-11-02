@@ -46,3 +46,6 @@
     top: 0;
     left: 0;
   }
+  
+  .product-card:is(:hover, :focus-within) .default,
+  .product-card .hover { opacity: 0; }
