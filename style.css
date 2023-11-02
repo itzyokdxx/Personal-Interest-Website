@@ -537,3 +537,10 @@ body {
     font-weight: var(--fw-700);
     padding-block: 10px;
   }
+
+  .footer-link {
+    padding-block: 4px;
+    transition: var(--transition-1);
+  }
+
+  
