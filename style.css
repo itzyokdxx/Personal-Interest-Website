@@ -548,3 +548,5 @@ body {
   .footer-bottom { padding-block: 20px; }
 
   .copyright { margin-block-end: 10px; }
+
+  .copyright-link { display: inline-block; }
