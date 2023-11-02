@@ -546,3 +546,5 @@ body {
   .footer-link:is(:hover, :focus) { color: var(--portland-orange); }
 
   .footer-bottom { padding-block: 20px; }
+
+  .copyright { margin-block-end: 10px; }
