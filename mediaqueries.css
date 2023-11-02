@@ -66,4 +66,8 @@
     opacity: 0;
   }
 
-  
+  .product-card .card-action-btn:is(:hover, :focus) {
+    background-color: var(--portland-orange);
+    border-color: var(--portland-orange);
+    color: var(--white);
+  }
