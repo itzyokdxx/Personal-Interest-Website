@@ -23,3 +23,13 @@
 
    .grid-list { grid-template-columns: 1fr 1fr; }
  
+   /*** HERO*/
+
+  .hero {
+    display: grid;
+    padding-inline-start: 20px;
+    justify-content: flex-start;
+    align-items: center;
+  }
+
+  
