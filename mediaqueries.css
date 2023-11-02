@@ -228,9 +228,7 @@
  
    .service-card .h3 { --fs-3: 2.4rem; }
  
-   /**
-   * BRAND
-   */
+   /*** BRAND*/
 
   .brand .scrollbar-item { min-width: 20%; }
 
@@ -240,3 +238,19 @@
 
 }
 
+/*** responsive for large than 1200px screen*/
+
+ @media (min-width: 1200px) {
+
+    /*** CUSTOM PROPERTY*/
+  
+    :root {
+  
+      /*** typography*/
+  
+      --fs-1: 15rem;
+      --fs-3: 3.2rem;
+  
+    }
+
+    
