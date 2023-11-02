@@ -478,4 +478,9 @@ body {
     border-block-end: 1px solid var(--onyx);
   }
 
+  .footer-top .container {
+    display: grid;
+    gap: 30px;
+  }
+
   
