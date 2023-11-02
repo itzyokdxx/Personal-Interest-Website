@@ -473,4 +473,9 @@ body {
     background-position: top;
   }
 
+  .footer-top {
+    padding-block-start: 100px;
+    border-block-end: 1px solid var(--onyx);
+  }
+
   
