@@ -465,4 +465,12 @@ body {
   #FOOTER
 \*-----------------------------------*/
 
+.footer {
+    background-color: var(--raisin-black);
+    color: var(--battleship-gray);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: top;
+  }
 
+  
