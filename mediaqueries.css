@@ -253,4 +253,8 @@
   
     }
 
-    
+    /*** REUSED STYLE*/
+
+  .grid-list { grid-template-columns: repeat(4, 1fr); }
+
+  
