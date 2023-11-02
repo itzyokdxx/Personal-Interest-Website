@@ -15,7 +15,7 @@
     --fs-2: 4rem;
     --fs-3: 2.6rem;
 
-  }}
+  }
 
    /*** REUSED STYLE*/
 
@@ -84,5 +84,11 @@
 
   .brand .scrollbar-item { min-width: 25%; }
 
-  
+   /*** FOOTER*/
+
+   .footer-top .container { grid-template-columns: 1fr 1fr; }
+
+}
+
+
 
