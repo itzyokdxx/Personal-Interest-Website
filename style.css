@@ -543,4 +543,4 @@ body {
     transition: var(--transition-1);
   }
 
-  
+  .footer-link:is(:hover, :focus) { color: var(--portland-orange); }
