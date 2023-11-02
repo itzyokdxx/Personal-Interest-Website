@@ -145,5 +145,22 @@
  
  }
 
- 
+ /*** responsive for large than 992px screen*/
+
+@media (min-width: 992px) {
+
+    /*** CUSTOM PROPERTY*/
+  
+    :root {
+  
+      /*** typography*/
+  
+      --fs-1: 12rem;
+      --fs-3: 3rem;
+  
+      /*** spacing*/
+  
+      --section-padding: 50px;
+  
+    }
  
