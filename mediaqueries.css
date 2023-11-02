@@ -90,5 +90,17 @@
 
 }
 
+/*** responsive for large than 768px screen*/
 
+ @media (min-width: 768px) {
+
+    /*** CUSTOM PROPERTY*/
+  
+    :root {
+  
+      /*** typography*/
+  
+      --fs-1: 9rem;
+  
+    }
 
