@@ -71,3 +71,7 @@
     border-color: var(--portland-orange);
     color: var(--white);
   }
+
+  .product-card:is(:hover, :focus-within) .card-action-btn { opacity: 1; }
+
+  
