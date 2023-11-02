@@ -110,4 +110,18 @@
 
    .grid-list { grid-template-columns: repeat(3, 1fr); }
 
-   
+   /*** HERO*/
+
+  .hero {
+    aspect-ratio: 1512 / 784;
+    padding-inline-start: 10%;
+  }
+
+  .hero-text { font-size: 2.4rem; }
+
+
+  /*** OFFER*/
+
+  .offer .grid-list { grid-template-columns: repeat(3, 1fr); }
+
+  
