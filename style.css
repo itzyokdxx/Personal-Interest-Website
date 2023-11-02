@@ -513,4 +513,15 @@ body {
     color: var(--portland-orange);
   }
 
+  .social-list {
+    display: flex;
+    gap: 10px;
+  }
   
+  .social-link {
+    background-color: var(--white);
+    color: var(--black);
+    padding: 12px;
+    border-radius: 50%;
+    transition: var(--transition-1);
+  }
