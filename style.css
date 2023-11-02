@@ -550,3 +550,9 @@ body {
   .copyright { margin-block-end: 10px; }
 
   .copyright-link { display: inline-block; }
+
+  .footer-bottom .img {
+    width: 100%;
+    max-width: max-content;
+  }
+  
