@@ -483,4 +483,19 @@ body {
     gap: 30px;
   }
 
+  .footer .logo {
+    color: var(--white);
+    margin-block-end: 10px;
+  }
+  
+  .footer-text {
+    font-size: var(--fs-6);
+    margin-block-end: 25px;
+  }
+  
+  .footer-text .link {
+    display: inline-block;
+    color: var(--portland-orange);
+  }
+
   
