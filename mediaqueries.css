@@ -163,4 +163,11 @@
       --section-padding: 50px;
   
     }
+
+ /*** REUSED STYLE*/
+
+   .container { padding-inline: 30px; }
+
+   .scrollbar-item { min-width: calc(20% - 24px); }
  
+   
