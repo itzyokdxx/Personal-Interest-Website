@@ -124,4 +124,26 @@
 
   .offer .grid-list { grid-template-columns: repeat(3, 1fr); }
 
-  
+   /*** CTA*/
+
+   .cta-banner { display: block; }
+
+   .cta .container {
+     display: grid;
+     grid-template-columns: 1fr 0.75fr;
+     align-items: flex-end;
+   }
+ 
+ 
+   /*** FOOTER*/
+ 
+   .footer-bottom .container {
+     display: flex;
+     justify-content: space-between;
+     align-items: center;
+   }
+ 
+ }
+
+ 
+ 
