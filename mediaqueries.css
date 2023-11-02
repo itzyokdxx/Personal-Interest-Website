@@ -4,4 +4,17 @@
 
 /*** responsive for large than 575px screen */
 
+@media (min-width: 575px) {
 
+  /*** CUSTOM PROPERTY*/
+
+   :root {
+
+    /*** typography*/
+
+    --fs-2: 4rem;
+    --fs-3: 2.6rem;
+
+  }}
+
+  
