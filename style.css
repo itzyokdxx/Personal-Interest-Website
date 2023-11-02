@@ -442,3 +442,27 @@ body {
   
   .offer-card .btn:is(:hover, :focus) { background-color: var(--black); 
 }
+
+/*-------PRODUCT---------*\
+    
+  
+  .product .img-cover.hover,
+  .product-card .card-action-btn { display: none; }
+  
+  .product-card { text-align: center; }
+  
+  .product-card .card-banner {
+    border: 1px solid var(--platinum);
+    border-radius: var(--radius-10);
+    margin-block-end: 20px;
+  }
+  
+  .product-card :is(.wrapper, .rating-wrapper) { display: flex; }
+  
+  .product-card .wrapper {
+    justify-content: center;
+    align-items: center;
+    gap: 5px;
+    color: var(--silver-chalice);
+    font-size: var(--fs-7);
+}
