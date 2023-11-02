@@ -80,4 +80,9 @@
 
    .cta .h2 { --fs-2: 3.2rem; }
 
-   
+ /*** BRAND*/
+
+  .brand .scrollbar-item { min-width: 25%; }
+
+  
+
