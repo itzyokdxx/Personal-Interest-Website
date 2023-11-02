@@ -544,3 +544,5 @@ body {
   }
 
   .footer-link:is(:hover, :focus) { color: var(--portland-orange); }
+
+  .footer-bottom { padding-block: 20px; }
