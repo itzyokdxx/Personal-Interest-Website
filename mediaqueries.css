@@ -74,4 +74,10 @@
 
   .product-card:is(:hover, :focus-within) .card-action-btn { opacity: 1; }
 
-  
+  /*** CTA*/
+
+   .cta .img { width: 250px; }
+
+   .cta .h2 { --fs-2: 3.2rem; }
+
+   
