@@ -32,4 +32,14 @@
     align-items: center;
   }
 
-  
+  /*** PRODUCT*/
+
+   .product-card .card-banner { position: relative; }
+
+   .product-card .card-action-btn,
+   .product-card .card-banner .hover {
+     display: block;
+     position: absolute;
+   }
+
+   
