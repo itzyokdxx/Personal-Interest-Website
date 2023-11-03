@@ -361,9 +361,11 @@
     text-align: center;
   }
   
-  .navbar-action-btn:is(:hover, :focus) {
+  .navbar-action-btn:is(:hover, :focus){
       background-color: #ffc332;
-    }
+  }
+
+
   
   
   
@@ -391,7 +393,13 @@
   .hero .btn { margin-inline: auto; }
   
   .hero .btn:is(:hover, :focus) { 
-    background-color: #ff8202; }
+    background-color: #ff8202; 
+  }
+
+  .hero .btn:is(:hover, :focus) {
+    background-color: #ffc332;
+  }
+
   
   
   
