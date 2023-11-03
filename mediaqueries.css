@@ -303,9 +303,16 @@
           background-color: #faefd6;
       }
 
-      .header .logo,
-      .header .action-btn {
+      .header .logo{
           color: #ffc332;
+      }
+
+      .header .action-btn{
+        color: black;
+      }
+
+      .header .action-btn:is(:hover, :focus){
+        color: #ffc332;
       }
 
       .header .action-btn.user {
