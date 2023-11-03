@@ -12,6 +12,9 @@ Explore our website today and embark on a delightful shopping journey that celeb
 MEMBERS AND THEIR ROLES ON WEBSITE MAKING:
 
 Francisco - File Structure, Header Section, and Banner Logo
+
 Lapinig - Category Section, Offers Section, and Product Section
+
 Mesias - Service, Section, CT Section, and Brand Section
+
 Nunag - Created the Group Repository, Footer Section, and Media Queries Section.
